@@ -1,6 +1,6 @@
 # My-portfolio 
 
-This is my personal portfolio website built with HTML & CSS.
+This is my personal portfolio website built with HTML & CSS to practice Web development 
 
 ## About Me
 Hi, I'm Anuwar Mahammad from Chiro, Ethiopia. I build clean and responsive websites while learning frontend technologies.
